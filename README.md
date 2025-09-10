@@ -366,10 +366,6 @@ gantt
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=65"/>
 
-### 💡 **"Security is not a product, but a process. Innovation is not a destination, but a journey."**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Developed+with+❤️+by+S.Tamilselvan;Ethical+Hacker+%26+Cybersecurity+Researcher;Building+the+Future+of+Secure+Technology" alt="Footer Typing SVG" />
-
 
 
 </div>
