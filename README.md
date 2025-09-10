@@ -198,7 +198,7 @@ pie title 🏆 Professional Achievements
 </div>
 </p>
   <p style="overflow: hidden; padding: 20px;">
-  <img src="images/Screenshot 2025-07-05 153344-Photoroom.png" align="left" alt="Profile Views" width="220" style="margin-right: 20px;" />
+  <img src="bg/5741174.jpg" align="left" alt="Profile Views" width="220" style="margin-right: 20px;" />
  
 </p>
 
