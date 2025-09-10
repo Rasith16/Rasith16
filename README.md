@@ -15,26 +15,17 @@
   <img src="images/rasith%20khan%20.jpg" align="right" alt="Profile Views" width="220" style="margin-left: 20px;" />
  
 </p>
-
 &nbsp;  
 &nbsp;
+<br>
 
-## 👨🏻‍💻 About Me
 
 - 🛡️ **UI & UX**  
-- 💻 **Full Stack Developer & Technology Creator**  
+- 💻 **Technology Creator**  
 - 🔍 **AutoNest**  
 - 🌟 **Innovative Technology Professional**
 
-<div align="center">
-  
-  <!-- GitHub Stats Cards -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tamilselvan-S-Cyber-Security&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamilselvan-S-Cyber-Security&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff"/>
-
-  
-</div>
-
+<br>
 ## 📊 **Professional Statistics**
 
 <div align="center">
